@@ -5,5 +5,10 @@
     "azureFunctions.projectLanguage": "Python",
     "azureFunctions.projectRuntime": "~4",
     "debug.internalConsoleOptions": "neverOpen",
-    "docwriter.style": "Auto-detect"
+    "docwriter.style": "Auto-detect",
+    "cSpell.words": [
+        "funcignore",
+        "quickstart",
+        "venv"
+    ]
 }
